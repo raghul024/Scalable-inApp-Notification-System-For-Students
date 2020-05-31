@@ -122,7 +122,7 @@ Notification System looks like:
 
 ![Screenshot](notification.png)
 
-after doing all the above procedures in online platforms like <b>heruko , AWS , Wordpress ....etc connect <b>engagespot<\b>
+after doing all the above procedures in online platforms like <b>heruko , AWS , Wordpress</b> ....etc connect <b>engagespot<\b>
  
  if you are using <b>WordPress<\b> then follow the steps:
 
