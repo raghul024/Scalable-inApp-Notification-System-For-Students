@@ -107,6 +107,14 @@ Open <b>profile.php</b>
 On reloading the page looks like: 
 
 ![Screenshot](profile.png)
+
+Creating the logout script
+
+Open <b>logout.php</b>
+
+On reloading <b>logout</b> can be used now.
+
+For in inapp NOtification
 ## Running the tests
 
 Explain how to run the automated tests for this system
