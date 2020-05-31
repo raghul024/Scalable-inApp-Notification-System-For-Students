@@ -88,7 +88,15 @@ With:
 ```
 if (password_verify($_POST['password'], $password)) {
 ```
+Navigate to <b>http://localhost/phplogin/index.html</b>
 
+The home page will be the first page our users see when they've logged-in, the only way they can access this page is if they're logged-in, they will be redirected back to the login page if they aren't.
+
+Open <b>home.php</b>
+
+To make the home page look more attractive i have added css and finally the page looks like : 
+
+![Screenshot](index.png)
 ## Running the tests
 
 Explain how to run the automated tests for this system
