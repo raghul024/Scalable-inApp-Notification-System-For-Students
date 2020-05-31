@@ -45,7 +45,7 @@ We need a login form for our websites users, so they can interact with it and en
 
 Open up the index.html file with your favorite code editor and save it
 
-<img src="Screenshots/index.png" height="400" alt="Screenshot"/>
+![Screenshot](indexwithoutcss.png)
 
 
 End with an example of getting some data out of the system or using it for a little demo
