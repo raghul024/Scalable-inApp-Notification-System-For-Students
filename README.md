@@ -53,7 +53,7 @@ after saving the css file addd the following code in <b>index.php<b>:
 <link href="style.css" rel="stylesheet" type="text/css">
 ```
 
-nd now if we reload the index.html file in our web browser our login form will look more appealing: 
+And now if we reload the index.html file in our web browser our login form will look more appealing: 
 
 ![Screenshot](index.png)
 
