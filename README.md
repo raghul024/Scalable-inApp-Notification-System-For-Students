@@ -156,7 +156,7 @@ just a login sample the i have made in heroku a open source platform:
 
 link:- https://student24.herokuapp.com/
 
-i havent connected to my db since it requires credit card verification.
+i havent connected my heruko site to  db since it requires credit card verification.
 
 ## Login Credentials for my database(phplogin.sql)
 
