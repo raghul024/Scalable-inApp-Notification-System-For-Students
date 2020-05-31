@@ -45,7 +45,6 @@ We need a login form for our websites users, so they can interact with it and en
 
 Open up the index.html file with your favorite code editor and save it
 
-<img src="Screenshots/indexwithoutcss.png" height="400" alt="Screenshot"/>
 <img src="Screenshots/index.png" height="400" alt="Screenshot"/>
 
 
