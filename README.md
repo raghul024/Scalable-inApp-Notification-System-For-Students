@@ -122,9 +122,9 @@ Notification System looks like:
 
 ![Screenshot](notification.png)
 
-after doing all the above procedures in online platforms like <b>heruko , AWS , Wordpress</b> ....etc connect <b>engagespot<\b>
+after doing all the above procedures in online platforms like <b>heruko , AWS , Wordpress</b> ....etc connect <b>engagespot</b>
  
- if you are using <b>WordPress<\b> then follow the steps:
+ if you are using <b>WordPress</b> then follow the steps:
 
     1.To install Engagespot to your WordPress blog or WooCommerce store, just download and install our Plugin from the WordPress plugin directory.
 
