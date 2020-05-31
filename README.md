@@ -71,7 +71,7 @@ If you're using phpMyAdmin follow these instructions:
   
 On <b>phpMyAdmin</b> this should look like:
 
-![Screenshot](db.png)
+
 
 ## Running the tests
 
