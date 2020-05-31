@@ -68,7 +68,10 @@ If you're using phpMyAdmin follow these instructions:
   Under Create database, type in phplogin in the text box
   Select utf8_general_ci as the collation
   Click Create
-End with an example of getting some data out of the system or using it for a little demo
+  
+On <b>phpMyAdmin</b> this should look like:
+
+![Screenshot](db.png)
 
 ## Running the tests
 
