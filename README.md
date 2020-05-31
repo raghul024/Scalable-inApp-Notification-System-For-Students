@@ -47,9 +47,7 @@ We need a login form for our websites users, so they can interact with it and en
 
 Open up the index.html file with your favorite code editor and save it
 
-<div align="center">
-    <img src="/Screenshots/index.png" width="400px"</img> 
-</div>
+<img src="screenshots/index.png" height="400" alt="Screenshot"/>
 
 
 End with an example of getting some data out of the system or using it for a little demo
