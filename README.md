@@ -96,7 +96,7 @@ Open <b>home.php</b>
 
 To make the home page look more attractive i have added css and finally the page looks like : 
 
-![Screenshot](index.png)
+![Screenshot](home.png)
 ## Running the tests
 
 Explain how to run the automated tests for this system
