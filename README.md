@@ -1,6 +1,6 @@
 # Scalable inApp Notification System For Students
 
-This project is devoloped exclusively for student where they can check their academic progress and if any new announcements is pushed by institution they get an in app notification as reminder for example as such in facebook...etc.
+This project is devoloped exclusively for student where they can check their academic progress and if any new announcements is pushed by institution they get an in app notification as reminder for example notifications as such in facebook...etc.
 
 ## Getting Started
 
