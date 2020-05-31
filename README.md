@@ -5,32 +5,52 @@ This project is devoloped exclusively for student where they can check their aca
 ## Getting Started
 
  I have tested the complete source by using local host and xampp server. It works efficiently if you upload the phplogin sql file in clearDB as its database in Heruko open source application.
+ 
+ There are a few steps we need to take before we create our secure login system and notification system , we need to set up our web server environment and make sure we have the required extensions enabled.
+ 
+ ## API's 
 
-See deployment for notes on how to deploy the project on a live system.
-
+  <b>Index.html</b>       — Login form created with HTML5 and CSS3, we don't need to use PHP in this file so we can just save it as HTML.
+  
+  <b>style.css</b>        — The stylesheet (CSS) for our secure login app.
+  
+  <b>authenticate.php</b> — Connect to the database, validate form data, retrieve database results, and create new sessions.
+  
+  <b>logout.php</b>       — Destroy the logged in sessions and redirect the user.
+  
+  <b>home.php </b>        — Basic home page for logged in users.
+  
+  <b>profile.php</b>      — Select the user's account from our MySQL database and display the result.
+  
+  For <b>notification system</b> i have used <b>Engagespot</b> for free push notification services:
+  
+  Link : https://engagespot.co/free-web-push-notifications/
+  
 ### Prerequisites
 
-What things you need to install the software and how to install them
+To host as an public website u can execute the follwing code in <b>Heruko , Amazon Web Services (AWS), WordPress , Microsoft Azure</b> 
 
+To excute the login and academic profile page we need to install the latest version of <b>xampp</b>
+
+To install the latest version use the link given below:
+  
+ link: https://www.apachefriends.org/index.html
 ```
 Give examples
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+<b>Step 1>
+ 
+We need a login form for our websites users, so they can interact with it and enter their details, we will be using HTML and CSS 
 
-Say what the step will be
+Open up the index.html file with your favorite code editor and save it
 
-```
-Give the example
-```
+<div align="center">
+    <img src="/Screenshots/index.png" width="400px"</img> 
+</div>
 
-And repeat
-
-```
-until finished
-```
 
 End with an example of getting some data out of the system or using it for a little demo
 
