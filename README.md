@@ -161,8 +161,9 @@ i havent connected to my db since it requires credit card verification.
 ## Login Credentials for my database(phplogin.sql)
 
 I have loaded two users:
--Username:- <b>Raghul</b> Password:- <b>123</b>
--Username:- <b>Rakesh</b> Password:- <b>1234</b>
+
+ -Username:- <b>Raghul</b> Password:- <b>123</b>
+ -Username:- <b>Rakesh</b> Password:- <b>1234</b>
 
 
 ```
