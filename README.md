@@ -47,7 +47,17 @@ Open up the index.html file with your favorite code editor and save it
 
 ![Screenshot](indexwithoutcss.png)
 
+open up our style.css file and add the following code:
 
+after saving the css file addd the following code in <b>index.php<b>:
+ 
+```
+<link href="style.css" rel="stylesheet" type="text/css">
+```
+
+open the file in browser 
+
+![Screenshot](index.png)
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
