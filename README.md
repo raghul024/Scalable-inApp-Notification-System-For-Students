@@ -4,7 +4,7 @@ This project is devoloped exclusively for student where they can check their aca
 
 ## Getting Started
 
- I have tested the complete source by using local host and xampp server. It works efficiently if you upload the phplogin sql file in clearDB as its database in Heruko open source application and in all open source platforms.
+ I have tested the complete source by using local host and xampp server. It works efficiently if you upload the phplogin sql file in clearDB as its database in Heroku open source application and in all open source platforms.
  
  There are a few steps we need to take before we create our secure login system and notification system , we need to set up our web server environment and make sure we have the required extensions enabled.
  
@@ -28,7 +28,7 @@ This project is devoloped exclusively for student where they can check their aca
   
 ### Prerequisites
 
-To host as an public website u can execute the follwing files in <b>Heruko , Amazon Web Services (AWS), WordPress , Microsoft Azure</b> 
+To host as an public website u can execute the follwing files in <b>Heroku , Amazon Web Services (AWS), WordPress , Microsoft Azure</b> 
 
 To excute the login and academic profile page we need to install the latest version of <b>xampp</b>
 
@@ -122,7 +122,7 @@ Notification System looks like:
 
 ![Screenshot](notification.png)
 
-after doing all the above procedures in online platforms like <b>heruko , AWS , Wordpress</b> ....etc connect <b>engagespot</b>
+after doing all the above procedures in online platforms like <b>heroku , AWS , Wordpress</b> ....etc connect <b>engagespot</b>
  
  if you are using <b>WordPress</b> then follow the steps:
 
@@ -156,7 +156,7 @@ just a login sample the i have made in heroku a open source platform:
 
 link:- https://student24.herokuapp.com/
 
-i havent connected my heruko site to  db since it requires credit card verification.
+i havent connected my heroku site to  db since it requires credit card verification.
 
 ## Login Credentials for my database(phplogin.sql)
 
