@@ -73,6 +73,21 @@ On <b>phpMyAdmin</b> this should look like:
 
 ![Screenshot](db.png)
 
+We are going to start with the authentication, this will handle the form data that is sent from our index.html file.
+
+open the file <b>authenticate.php</b>
+
+If you want to use any password encryption method, you can simply replace the following code:
+
+```
+if ($_POST['password'] === $password) {
+```
+
+With:
+
+```
+if (password_verify($_POST['password'], $password)) {
+```
 
 ## Running the tests
 
@@ -85,7 +100,6 @@ Explain what these tests test and why
 ```
 Give an example
 ```
-
 ### And coding style tests
 
 Explain what these tests test and why
