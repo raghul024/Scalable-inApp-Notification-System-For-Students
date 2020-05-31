@@ -97,6 +97,16 @@ Open <b>home.php</b>
 To make the home page look more attractive i have added css and finally the page looks like : 
 
 ![Screenshot](home.png)
+
+Creating the Profile Page:
+
+The profile page will display the account information for the logged-in user.
+
+Open <b>profile.php</b>
+
+On reloading the page looks like: 
+
+![Screenshot](profile.png)
 ## Running the tests
 
 Explain how to run the automated tests for this system
