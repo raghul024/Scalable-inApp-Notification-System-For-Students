@@ -4,7 +4,7 @@ This project is devoloped exclusively for student where they can check their aca
 
 ## Getting Started
 
- I have tested the complete source by using local host and xampp server. It works efficiently if you upload the phplogin sql file in clearDB as its database in Heruko open source application.
+ I have tested the complete source by using local host and xampp server. It works efficiently if you upload the phplogin sql file in clearDB as its database in Heruko open source application and in all open source platforms.
  
  There are a few steps we need to take before we create our secure login system and notification system , we need to set up our web server environment and make sure we have the required extensions enabled.
  
@@ -28,7 +28,7 @@ This project is devoloped exclusively for student where they can check their aca
   
 ### Prerequisites
 
-To host as an public website u can execute the follwing code in <b>Heruko , Amazon Web Services (AWS), WordPress , Microsoft Azure</b> 
+To host as an public website u can execute the follwing files in <b>Heruko , Amazon Web Services (AWS), WordPress , Microsoft Azure</b> 
 
 To excute the login and academic profile page we need to install the latest version of <b>xampp</b>
 
