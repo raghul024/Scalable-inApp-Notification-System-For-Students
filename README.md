@@ -4,7 +4,9 @@ This project is devoloped exclusively for student where they can check their aca
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+ I have tested the complete source by using local host and xampp server. It works efficiently if you upload the phplogin sql file in clearDB as its database in Heruko open source application.
+
+See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
