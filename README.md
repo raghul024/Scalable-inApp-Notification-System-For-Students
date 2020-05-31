@@ -35,9 +35,7 @@ To excute the login and academic profile page we need to install the latest vers
 To install the latest version use the link given below:
   
  link: https://www.apachefriends.org/index.html
-```
-Give examples
-```
+
 
 ### Installing
 
@@ -47,7 +45,7 @@ We need a login form for our websites users, so they can interact with it and en
 
 Open up the index.html file with your favorite code editor and save it
 
-<img src="screenshots/index.png" height="400" alt="Screenshot"/>
+<img src="Screenshots/index.png" height="400" alt="Screenshot"/>
 
 
 End with an example of getting some data out of the system or using it for a little demo
