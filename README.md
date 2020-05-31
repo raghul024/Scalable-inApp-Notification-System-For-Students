@@ -55,9 +55,19 @@ after saving the css file addd the following code in <b>index.php<b>:
 <link href="style.css" rel="stylesheet" type="text/css">
 ```
 
-open the file in browser 
+nd now if we reload the index.html file in our web browser our login form will look more appealing: 
 
 ![Screenshot](index.png)
+
+For creating <b>DataBase</b> , you will need to access your MySQL database, either using phpMyAdmin or your preferred MySQL database management application.
+
+If you're using phpMyAdmin follow these instructions:
+
+  Navigate to: http://localhost/phpmyadmin/
+  Click the Databases tab at the top
+  Under Create database, type in phplogin in the text box
+  Select utf8_general_ci as the collation
+  Click Create
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
