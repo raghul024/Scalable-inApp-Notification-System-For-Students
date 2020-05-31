@@ -114,7 +114,34 @@ Open <b>logout.php</b>
 
 On reloading <b>logout</b> can be used now.
 
-For in inapp NOtification
+For in inapp NOtification:
+
+Use Engagespot to create an notification server in your website 
+
+link:https://engagespot.co/free-web-push-notifications/
+
+Notification System looks like:
+
+![Screenshot](notification.png)
+
+after cdoing all the procedures in online platforms like <b>heruko , AWS , Wordpress ....etc connect <b>engagespot<\b>
+ 
+ if you are using <b>WordPress<\b> then follow the steps:
+
+    1.To install Engagespot to your WordPress blog or WooCommerce store, just download and install our Plugin from the WordPress plugin directory.
+
+    2. And follow the instructions on this guide to setup the plugin
+
+    3.Your Site Key is 10WoStMb82vGbKOU6D76f7yz5gYrgy
+
+    4.Your API Key is uWxQAjw4aoVTpP14kIvM6UQi76mqoy
+  
+  In any other platforms uAdd the following code to every page (Just before the </head>tag) you want the bell icon to appear:
+  
+  ```
+Give an example
+```
+ 
 ## Running the tests
 
 Explain how to run the automated tests for this system
@@ -124,7 +151,7 @@ Explain how to run the automated tests for this system
 Explain what these tests test and why
 
 ```
-Give an example
+<script>window.Engagespot={},q=function(e){return function(){(window.engageq=window.engageq||[]).push({f:e,a:arguments})}},f=["captureEvent","subscribe","init","showPrompt","identifyUser","clearUser"];for(k in f)Engagespot[f[k]]=q(f[k]);var s=document.createElement("script");s.type="text/javascript",s.async=!0,s.src="https://cdn.engagespot.co/EngagespotSDK.2.0.js";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(s,x);Engagespot.init('10WoStMb82vGbKOU6D76f7yz5gYrgy');</script>
 ```
 ### And coding style tests
 
