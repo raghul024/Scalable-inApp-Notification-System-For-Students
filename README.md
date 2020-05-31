@@ -8,7 +8,7 @@ This project is devoloped exclusively for student where they can check their aca
  
  There are a few steps we need to take before we create our secure login system and notification system , we need to set up our web server environment and make sure we have the required extensions enabled.
  
- ## API's 
+ ## Files in repository
 
   <b>Index.html</b>       — Login form created with HTML5 and CSS3, we don't need to use PHP in this file so we can just save it as HTML.
   
@@ -37,9 +37,7 @@ To install the latest version use the link given below:
  link: https://www.apachefriends.org/index.html
 
 
-### Installing
-
-<b>Step 1>
+### Details of files in repository
  
 We need a login form for our websites users, so they can interact with it and enter their details, we will be using HTML and CSS 
 
@@ -150,51 +148,21 @@ after cdoing all the procedures in online platforms like <b>heruko , AWS , Wordp
  - High Performance
  - Management Ease
 
-### Break down into end to end tests
+### Reason for not executing in open platform 
 
-Explain what these tests test and why
+As all open source platform requires credit card verification i couldnt make it and only if i verify my profile with credit card i will be able to make.
+
+just a login sample the i have made in heroku a open source platform:
+
+link:- https://student24.herokuapp.com/
+
+i havent connected to my db since it requires credit card verification.
+
+## Login Credentials for my database(phplogin.sql)
+
+I have loaded two users:
+    -Username:- <b>Raghul</b> Password:- <b>123</b>
+    -USername:- <b>Rakesh</b> Password:- <b>1234</b>
+
 
 ```
-<script>window.Engagespot={},q=function(e){return function(){(window.engageq=window.engageq||[]).push({f:e,a:arguments})}},f=["captureEvent","subscribe","init","showPrompt","identifyUser","clearUser"];for(k in f)Engagespot[f[k]]=q(f[k]);var s=document.createElement("script");s.type="text/javascript",s.async=!0,s.src="https://cdn.engagespot.co/EngagespotSDK.2.0.js";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(s,x);Engagespot.init('10WoStMb82vGbKOU6D76f7yz5gYrgy');</script>
-```
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
