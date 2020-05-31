@@ -162,8 +162,8 @@ i havent connected to my db since it requires credit card verification.
 
 I have loaded two users:
 
- -Username:- <b>Raghul</b> Password:- <b>123</b>
- -Username:- <b>Rakesh</b> Password:- <b>1234</b>
+     1.Username:- <b>Raghul</b> Password:- <b>123</b>
+     2.Username:- <b>Rakesh</b> Password:- <b>1234</b>
 
 
 ```
