@@ -63,11 +63,11 @@ For creating <b>DataBase</b> , you will need to access your MySQL database, eith
 
 If you're using phpMyAdmin follow these instructions:
 
-  Navigate to: http://localhost/phpmyadmin/
-  Click the Databases tab at the top
-  Under Create database, type in phplogin in the text box
-  Select utf8_general_ci as the collation
-  Click Create
+    1.Navigate to: http://localhost/phpmyadmin/
+    2.Click the Databases tab at the top
+    3.Under Create database, type in phplogin in the text box
+    4.Select utf8_general_ci as the collation
+    5.Click Create
   
 On <b>phpMyAdmin</b> this should look like:
 
@@ -142,9 +142,13 @@ after cdoing all the procedures in online platforms like <b>heruko , AWS , Wordp
 <script>window.Engagespot={},q=function(e){return function(){(window.engageq=window.engageq||[]).push({f:e,a:arguments})}},f=["captureEvent","subscribe","init","showPrompt","identifyUser","clearUser"];for(k in f)Engagespot[f[k]]=q(f[k]);var s=document.createElement("script");s.type="text/javascript",s.async=!0,s.src="https://cdn.engagespot.co/EngagespotSDK.2.0.js";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(s,x);Engagespot.init('10WoStMb82vGbKOU6D76f7yz5gYrgy');</script>
 ```
  
-## Running the tests
+## Reason for using SQL Database
 
-Explain how to run the automated tests for this system
+ - Scalability and Flexibility
+ - Strong Data Protection
+ - High Availability
+ - High Performance
+ - Management Ease
 
 ### Break down into end to end tests
 
