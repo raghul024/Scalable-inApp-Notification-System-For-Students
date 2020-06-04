@@ -162,8 +162,8 @@ i havent connected my heroku site to  db since it requires credit card verificat
 
 I have loaded two users in my database:
 
-     1.Username:- <b>Raghul</b> Password:- <b>123</b>
-     2.Username:- <b>Rakesh</b> Password:- <b>1234</b>
+     1.Username:- Raghul Password:- 123
+     2.Username:- Rakesh Password:- 1234
 
 
 ```
